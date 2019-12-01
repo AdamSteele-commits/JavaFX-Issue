@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GOcommand
+comment0.text=\r\n\ Command\ to\ go\ somewhere\r\n\ @author\ rej\r\n
+comment1.params=firstWord\ secondWord\ thirdWord
+comment1.target=GOcommand(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=GOcommand()
+comment3.params=player
+comment3.target=boolean\ execute(zuul.Player)
+numComments=4

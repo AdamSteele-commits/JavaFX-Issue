@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=HELPcommand
+comment0.text=\r\n\ Command\ to\ get\ help\r\n\ @author\ rej\r\n
+comment1.params=firstWord\ secondWord\ thirdWord
+comment1.target=HELPcommand(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=HELPcommand()
+comment3.params=player
+comment3.target=boolean\ execute(zuul.Player)
+comment4.params=
+comment4.target=java.lang.String[]\ getInstructions()
+numComments=5

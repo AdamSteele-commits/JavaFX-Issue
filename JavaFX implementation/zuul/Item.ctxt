@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ A\ simple\ class\ for\ items\r\n\ @author\ rej\r\n
+comment1.params=desc\ w
+comment1.target=Item(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ an\ Item\r\n\ @param\ desc\ The\ item's\ description\r\n\ @param\ w\ the\ item's\ weight\r\n
+comment2.params=
+comment2.target=java.lang.String\ getDescription()
+comment2.text=\r\n\ Get\ a\ description\ of\ an\ item\r\n\ @return\ the\ description\r\n
+comment3.params=
+comment3.target=int\ getWeight()
+comment3.text=\r\n\ Get\ the\ weight\ of\ an\ item\r\n\ @return\ the\ weight\r\n
+comment4.params=
+comment4.target=void\ execute()
+comment4.text=\r\n\ \ Make\ the\ item\ change\ state\ in\ some\ way.\r\n\ \ Default\:\ do\ nothing\r\n
+numComments=5

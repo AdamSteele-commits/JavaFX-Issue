@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=QUITcommand
+comment0.text=\r\n\ Command\ to\ quit\r\n\ @author\ rej\r\n
+comment1.params=firstWord\ secondWord\ thirdWord
+comment1.target=QUITcommand(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=QUITcommand()
+comment3.params=player
+comment3.target=boolean\ execute(zuul.Player)
+numComments=4

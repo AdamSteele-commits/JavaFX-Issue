@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=BadExitException
+comment1.params=direction\ r
+comment1.target=BadExitException(java.lang.String,\ Room)
+comment1.text=\r\n\ Exception\ constructor\ for\ use\ when\ a\ bad\ exit\ is\ requested\r\n\ @param\ direction\ The\ direction\ to\ exit\r\n\ @param\ r\ The\ next\ room\ \r\n
+numComments=2

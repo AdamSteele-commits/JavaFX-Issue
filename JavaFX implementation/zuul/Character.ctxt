@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Character
+comment0.text=\r\n\ A\ simple\ class\ for\ Characters\r\n\ @author\ rej\r\n
+comment1.params=n\ r
+comment1.target=Character(java.lang.String,\ Room)
+comment1.text=\r\n\ Place\ a\ new\ character\ in\ a\ room\r\n\ @param\ n\ the\ name\ of\ the\ character\r\n\ @param\ r\ the\ room\ in\ which\ to\ place\ them\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ @return\ the\ name\r\n
+comment3.params=
+comment3.target=Room\ getCurrentRoom()
+comment3.text=\r\n\ @return\ the\ room\ the\ character\ is\ in\r\n
+comment4.params=currentRoom
+comment4.target=void\ setCurrentRoom(Room)
+comment4.text=\r\n\ Place\ the\ character\ in\ a\ room\r\n\ @param\ currentRoom\ the\ currentRoom\ to\ set\r\n
+comment5.params=
+comment5.target=void\ randomMove()
+comment5.text=\r\n\ Move\ the\ character\ to\ a\ randomly\ chosen\ adjacent\ room\r\n
+comment6.params=
+comment6.target=void\ execute()
+comment6.text=\r\n\ Game-specific\ action\ \r\n
+numComments=7

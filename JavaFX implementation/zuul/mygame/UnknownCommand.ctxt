@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=UnknownCommand
+comment0.text=\r\n\ This\ command\ is\ not\ recognised\r\n\ @author\ rej\r\n
+comment1.params=firstWord\ secondWord\ thirdWord
+comment1.target=UnknownCommand(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=UnknownCommand()
+comment3.params=player
+comment3.target=boolean\ execute(zuul.Player)
+numComments=4

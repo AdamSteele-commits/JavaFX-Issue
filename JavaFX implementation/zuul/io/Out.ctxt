@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Out
+comment0.text=\r\n\ A\ really\ simple\ class\ to\ hanndle\ output\r\n\r\n\ @author\ rej\r\n
+comment1.params=
+comment1.target=Out()
+comment2.params=msg
+comment2.target=void\ print(java.util.List)
+comment3.params=str
+comment3.target=void\ print(java.lang.String)
+comment3.text=\r\n\ Print\ a\ message\r\n\ @param\ str\ the\ message\ to\ print\r\n
+comment4.params=str
+comment4.target=void\ println(java.lang.String)
+comment4.text=\r\n\ Print\ a\ message\ with\ a\ carriage\ return\r\n\r\n\ @param\ str\ the\ message\ to\ print\r\n
+numComments=5
